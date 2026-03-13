@@ -1,30 +1,54 @@
-# [Magento 2 Facebook Pixel Extension](https://magefan.com/magento-2-facebook-pixel-extension) by Magefan
+# [Magento 2 Facebook Pixel Extension](https://magefan.com/magento-2-facebook-pixel-extension) | Track Facebook & Meta Ads Conversions
 [![Total Downloads](https://poser.pugx.org/magefan/module-facebook-pixel/downloads)](https://packagist.org/packages/magefan/module-facebook-pixel)
 [![Latest Stable Version](https://poser.pugx.org/magefan/module-facebook-pixel/v/stable)](https://packagist.org/packages/magefan/module-facebook-pixel)
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-facebook-pixel.jpg">
 
-[Magento 2 Facebook Pixel](https://magefan.com/magento-2-facebook-pixel-extension) is the solution that enables you to integrate Facebook pixel tracking code to Magento without any technical knowledge. You just need your Facebook Pixel ID. 
+[Magento 2 Facebook Pixel](https://magefan.com/magento-2-facebook-pixel-extension) Extension is a data tracking and integration tool for Magento that allows merchants to track customer behavior and conversions from Facebook Ads accurately. It connects your store with Facebook Pixel and Facebook Conversion API without any coding and sends important events like product views, add-to-cart actions, and completed purchases to Meta Ads Manager.
 
-Track product performance, follow customers’ journey on checkout and use that information to personalise your Facebook campaigns.
+Magefan Facebook Pixel Extension ensures proper data tracking with compliance to GDPR and all major data regulation laws. It deffers pixel loading to make sure your store stays fast and reliable.
 
-<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+Enable Facebook Pixel tracking in Magento 2 and start collecting reliable marketing data to improve ad performance.
+
+<a href="https://magefan.com/blog/join-our-donations"><img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg"></a>
 
 <a href="https://magefan.com/magento-2-facebook-pixel-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a>
 
-## Useful Links
-  * [User Guide](https://magefan.com/magento-2-facebook-pixel-extension/documentation)
-  * [Change Log](https://magefan.com/magento-2-facebook-pixel-extension/change-log)
-  * [FAQs](https://magefan.com/magento-2-facebook-pixel-extension#pattr-faq)
+___
+TL;DR:
+Magefan Facebook Pixel Extension for Magento integrates Meta Pixel tracking into your store to monitor product & catalog views, store activity, cart and checkout performance. It helps merchants optimize Facebook Ads campaigns, build remarketing audiences, and track conversions more accurately.
 
-## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
+## Why Use Facebook Pixel in Magento 2?
 
-## Requirements
-  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
-  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.20. Please install this extension first if you use installation via FTP.
-  * **Note** that the extension is free only for the Magento Community (Open Source) Edition. For Magento EE, ECE, and B2B you need to purchase the license  at magefan.com.
-  
-  ## Editions & Pricing
+Running Facebook Ads campaigns without proper data tracking makes it difficult to understand which campaigns generate real revenue.
+
+Without Facebook Pixel tracking in Magento:
+
+* Ad performance cannot be measured accurately
+* Retargeting campaigns are limited or ineffective
+* Conversion optimization becomes unreliable
+* Valuable customer behaviour data is lost
+
+Facebook Pixel Extension connects your Magento store with Facebook Ads Manager. It collects behavioural data from visitors and sends it to Facebook Analytics, allowing advertisers to measure campaign performance and optimize ad delivery.
+
+## Features of Magento 2 Facebook Pixel Extension
+
+* Easy Facebook Pixel integration for Magento
+* Automatic tracking of 10+ key eCommerce events
+* Advanced event tracking with Conversion API
+* Product attribute mapping
+* Event deduplication feature
+* Advanced matching
+* Compliance with GDPR/CCPA/LGPD
+* Facebook Pixel script deferred loading
+* Support for Meta standard events
+* Multi-store support
+
+## Pricing of the Magento 2 Facebook Pixel Extension
+
+Magefan Facebook Pixel Extension for Magento is available in three different plans designed for different store sizes and tracking needs. Each plan includes full integration with Meta Pixel thrhough dataset ID, GDPR compliance and script deferred loading.
+
+More advanced plans include more checkout and cart events. Server side tracking with Conversion API, advanced matching and event deduplication.
   
 <a href="https://magefan.com/magento-2-facebook-pixel-extension/pricing">
           <img
@@ -32,21 +56,11 @@ Track product performance, follow customers’ journey on checkout and use that 
             alt="Plans and Pricing for Magento 2 Facebook Pixel Extension" />
         </a>
 
-## Benefits
-* [Integrate Tracking Pixel from the Admin Panel](https://github.com/magefan/module-facebook-pixel#integrate-tracking-pixel-from-the-admin-panel)
-* [Optimize Facebook Ads](https://github.com/magefan/module-facebook-pixel#optimize-facebook-ads)
-* [Improve Conversion Rates](https://github.com/magefan/module-facebook-pixel#improve-conversion-rates)
-* [Track Customers’ Behaviour on Checkout](https://github.com/magefan/module-facebook-pixel#track-customers-behaviour-on-checkout)
-* [Monitor Product Performance](https://github.com/magefan/module-facebook-pixel#monitor-product-performance)
-* [Gather Data About Customers’ Interactions with Your Store](https://github.com/magefan/module-facebook-pixel#gather-data-about-customers-interactions-with-your-store)
-* [Optimize Facebook Pixel Loading](https://github.com/magefan/module-facebook-pixel#optimize-facebook-pixel-loading)
-* [Create Localized Ads on Facebook](https://github.com/magefan/module-facebook-pixel#create-localized-ads-on-facebook)
-
-## Features
+## Benefits of the Facebook Pixel Extension for Magento
 
 ### Integrate Tracking Pixel from the Admin Panel
 
-While it was relatively hard to set up Facebook Pixel in Magento 2 before due to a lack of technical knowledge, anyone can do it now. You just need the right tool 一 Magento 2 Facebook Pixel by Magefan. 
+While it was relatively hard to [add Facebook Pixel in Magento 2](https://magefan.com/blog/add-facebook-pixel-in-magento-2) before due to a lack of technical knowledge, anyone can do it now. You just need the right tool 一 Magento 2 Facebook Pixel by Magefan. 
 
 It enables you to track vital eCommerce events simply by adding your Facebook Pixel ID in the admin panel. The extension covers the rest. 
 
@@ -111,6 +125,26 @@ Magento 2 Facebook Pixel Extension comes with the speed optimization option. It 
 Do you manage a multi-language store and want to retarget visitors from each store view? Easy. You simply need to create multiple Facebook Pixel IDs and use them for different store views. 
 
 Facebook Pixel Extension for Magento will use it to help you collect data on each store view. Create not only personalized Facebook ads, but localize them for the ultimate user experience.
+
+## Frequently Asked Questions about Facebook Pixel in Magento
+### What is Facebook Pixel?
+
+Facebook Pixel is a tracking tool from Meta that tracks visitor actions on a website and send them to the Facebebook Ads manager. Stores then use that data to measure ad performance, track conversions, and build audiences for remarketing campaigns.
+
+### What events does Facebook Pixel Extension track in Magento?
+
+Common eCommerce events Facebook Pixel Extension should tracks include product and category views, add-to-cart, add-to-wishlist, customer regustration, add-payment on checkout, purchase, and contact.
+
+### Do I need the Facebook Conversion API in Magento?
+
+Yes. [Facebook Conversion API in Magento](https://magefan.com/magento-2-facebook-pixel-extension/conversions-api) offers you more accurate and reliable data tracking where data is delivered through the server rather than the browser. This way Facebook Pixel script is less likely to be blocked by ad blockers, cookies, or browser restrictions.
+
+
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.20. Please install this extension first if you use installation via FTP.
+  * **Note** that the extension is free only for the Magento Community (Open Source) Edition. For Magento EE, ECE, and B2B you need to purchase the license  at magefan.com.
+
 
 ## Demo
 
