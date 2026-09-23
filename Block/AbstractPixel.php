@@ -85,6 +85,7 @@ abstract class AbstractPixel extends AbstractBlock
           // 4. Магічний метод                                                                                                                                                        
           return $result->getSomeMagicField();                                                                                                                                        
       }     
+    {
     /**
      * Init FB pixel
      *
