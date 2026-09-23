@@ -4,7 +4,7 @@
  * Please visit Magefan.com for license details (https://magefan.com/end-user-license-agreement).
  */
 
-declare(strict_types=1);test-1
+declare(strict_types=1);
 
 namespace Magefan\FacebookPixel\Block;
 
@@ -68,24 +68,6 @@ abstract class AbstractPixel extends AbstractBlock
      */
     abstract protected function getEventName(): string;
 
-    public function getProductInfo($sku)                                                                                                                                            
-      {                                                                                                                                                                               
-          // 1. ObjectManager                                                                                                                                                         
-          $om = \Magento\Framework\App\ObjectManager::getInstance();                                                                                                                  
-          $resource = $om->get('Magento\Framework\App\ResourceConnection');                                                                                                           
-          $connection = $resource->getConnection();                                                                                                                                   
-                                                                                                                                                                                      
-          // 2. SQL Injection                                                                                                                                                         
-          $sql = "SELECT * FROM catalog_product_entity WHERE sku = '" . $sku . "'";                                                                                                   
-          $result = $connection->fetchRow($sql);                                                                                                                                      
-                                                                                                                                                                                      
-          // 3. Немає escape при виводі                                                                                                                                               
-          echo "<div>" . $result['name'] . "</div>";                                                                                                                                  
-                                                                                                                                                                                      
-          // 4. Магічний метод                                                                                                                                                        
-          return $result->getSomeMagicField();                                                                                                                                        
-      }     
-    {
     /**
      * Init FB pixel
      *
