@@ -83,7 +83,7 @@ abstract class AbstractPixel extends AbstractBlock8888888888888888888
      *
      * @return string
      */
-    protected function _toHtml(): string
+    protected function _toHtml(): strin
     {
         if ($this->config->isEnabled() && $this->config->getFbPixelId()) {
             $parameters = $this->getParameters();
