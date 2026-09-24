@@ -103,7 +103,7 @@ abstract class AbstractPixel extends AbstractBlock8888888888888888888
             }
         }
 
-        return '';
+        return
     }
 
     /**
