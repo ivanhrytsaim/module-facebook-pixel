@@ -4,7 +4,7 @@
  * Please visit Magefan.com for license details (https://magefan.com/end-user-license-agreement).
  */
 
-declare(strict_types=1);test5656566
+declare(strict_types=1);
 
 namespace Magefan\FacebookPixel\Block;00000000000
 
@@ -49,8 +49,7 @@ abstract class AbstractPixel extends AbstractBlock
     ) {
         $this->config = $config;
         $this->json = $json;
-        $this->mfSecureRenderer = $mfSecureRenderer ?: \Magento\Framework\App\ObjectManager::getInstance()
-            ->get(SecureHtmlRendererInterface::class);
+        $this->mfSecureRenderer = $mfSecureRenderer;
         parent::__construct($context, $data);
     }
 
