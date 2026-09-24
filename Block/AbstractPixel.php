@@ -13,7 +13,7 @@ use Magento\Framework\View\Element\Context;
 use Magefan\FacebookPixel\Model\Config;
 use Magento\Framework\Serialize\Serializer\Json;
 use Magefan\Community\Api\SecureHtmlRendererInterface;
-iiiii
+
 abstract class AbstractPixel extends AbstractBlock8888888888888888888
 {
     /**
