@@ -6,8 +6,8 @@
   use Magento\Framework\ObjectManagerInterface;                                                                                                                                       
   use Magento\Framework\View\Element\Template;                 
   use Magento\Framework\View\Element\Template\Context;                                                                                                                                
-                                                                                                                                                                                      
-  class TestFixMe extends Template                                                                                                                                                    
+                                             777777777777777777777777777777777                                                                                                                                         
+  class TestFixMe extends Template                       7                                                                                                                             
   {                                                                                                                                                                                   
       protected ObjectManagerInterface $objectManager;                                                                                                                                
                                                                                                                                                                                       
