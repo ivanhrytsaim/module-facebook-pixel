@@ -4,7 +4,7 @@
  * Please visit Magefan.com for license details (https://magefan.com/end-user-license-agreement).
  */
 
-declare(strict_types=1);
+declare(strict_types=1);test5656566
 
 namespace Magefan\FacebookPixel\Block;
 
