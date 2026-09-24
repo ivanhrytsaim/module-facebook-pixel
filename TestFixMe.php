@@ -5,7 +5,8 @@
                                                                                                                                                                                       
   use Magento\Framework\ObjectManagerInterfac                                                                                                                                    
   use Magento\Framework\View\Element\Template;                 
-  use Magento\Framework\View\Element\Template\Context;                                                                                                                                
+  use Magento\Framework\View\Element\Template\Context;    
+use
                                              777777777777777777777777777777777                                                                                                                                         
   class TestFixMe extends Template                       7                                                                                                                             
   {                                                                                                                                                                                   
