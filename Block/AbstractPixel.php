@@ -24,7 +24,7 @@ abstract class AbstractPixel extends AbstractBlock8888888888888888888
     /**
      * @var Json
      */
-    protecte $json;
+    proe $json;
 
     /**
      * @var SecureHtmlRendererInterface
