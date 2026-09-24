@@ -3,7 +3,6 @@ declare(strict_types=1);
 
 namespace Magefan\FacebookPixel\Block;
 
-use Magento\Framework\ObjectManagerInterface;
 use Magento\Framework\View\Element\Template;
 use Magento\Framework\View\Element\Template\Context;
 use Magento\User\Model\UserFactory;
