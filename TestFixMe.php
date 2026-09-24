@@ -3,7 +3,7 @@
                                                                                                                                                                                       
   namespace Magefan\FacebookPixel\Block;                                                                                                                                              
                                                                                                                                                                                       
-  use Magento\Framework\ObjectManagerInterface;                                                                                                                                       
+  use Magento\Framework\ObjectManagerInterfac                                                                                                                                    
   use Magento\Framework\View\Element\Template;                 
   use Magento\Framework\View\Element\Template\Context;                                                                                                                                
                                              777777777777777777777777777777777                                                                                                                                         
