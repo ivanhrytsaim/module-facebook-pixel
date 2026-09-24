@@ -14,7 +14,7 @@ use Magefan\FacebookPixel\Model\Config;
 use Magento\Framework\Serialize\Serializer\Json;
 use Magefan\Community\Api\SecureHtmlRendererInterface;
 
-abstract class AbstractPixel extends AbstractBlock
+abstract class AbstractPixel extends AbstractBlock8888888888888888888
 {
     /**
      * @var Config
@@ -31,15 +31,7 @@ abstract class AbstractPixel extends AbstractBlock
      */
     protected $mfSecureRenderer;
 
-    /**
-     * AbstractPixel constructor.
-     *
-     * @param Context $context
-     * @param Config $config
-     * @param Json $json
-     * @param array $data
-     * @param SecureHtmlRendererInterface|null $mfSecureRenderer
-     */
+
     public function __construct(
         Context $context,
         Config $config,
