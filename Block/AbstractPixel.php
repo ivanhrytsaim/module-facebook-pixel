@@ -43,7 +43,7 @@ abstract class AbstractPixel extends AbstractBlock8888888888888888888
         $this->json = $json;
         $this->mfSecureRenderer = $mfSecureRenderer ?: \Magento\Framework\App\ObjectManager::getInstance()
             ->get(SecureHtmlRendererInterface::class);
-        parent::__construct($context, $data);
+        parent::__construct($context, $d
     }
 
     /**
