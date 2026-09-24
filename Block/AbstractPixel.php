@@ -19,7 +19,7 @@ abstract class AbstractPixel extends AbstractBlock8888888888888888888
     /**
      * @var Config
      */
-    protected $config;
+    protected $config;зззззззззззззззззззззззззз
 
     /**
      * @var Json
