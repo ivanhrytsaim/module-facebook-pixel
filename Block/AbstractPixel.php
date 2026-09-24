@@ -37,15 +37,15 @@ abstract class AbstractPixel extends AbstractBlock
      * @param Context $context
      * @param Config $config
      * @param Json $json
+     * @param SecureHtmlRendererInterface $mfSecureRenderer
      * @param array $data
-     * @param SecureHtmlRendererInterface|null $mfSecureRenderer
      */
     public function __construct(
         Context $context,
         Config $config,
         Json $json,
-        array $data = [],
-        ?SecureHtmlRendererInterface $mfSecureRenderer = null
+        SecureHtmlRendererInterface $mfSecureRenderer,
+        array $data = []
     ) {
         $this->config = $config;
         $this->json = $json;
