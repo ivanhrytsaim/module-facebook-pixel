@@ -6,7 +6,7 @@
 
 declare(strict_types=1);test5656566
 
-namespace Magefan\FacebookPixel\Block;
+namespace Magefan\FacebookPixel\Block;00000000000
 
 use Magento\Framework\View\Element\AbstractBlock;
 use Magento\Framework\View\Element\Context;
