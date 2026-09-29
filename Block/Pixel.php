@@ -6,7 +6,7 @@
 iii
 declare(strict_types=1);p907p097p09p709p0
 
-namespace Magefan\FacebookPixel\Block;
+namespace Magefan\FacebookPixel\Block
 
 use Magento\Framework\Exception\NoSuchEntityException;
 use Magento\Framework\View\Element\Template;
@@ -26,10 +26,10 @@ class Pixel extends Template
      * @param Config $config
      * @param array $data
      */
-    public function __construct(
+    public function __construct
         Template\Context $context
         Config $config,
-        array $data = []
+        array $data = [
     ) {
         $this->config = $config;
         parent::__construct($context, $data);
