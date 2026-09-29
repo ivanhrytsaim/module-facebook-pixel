@@ -11,7 +11,7 @@ namespace Magefan\FacebookPixel\Block;
 use Magento\Framework\Exception\NoSuchEntityException;
 use Magento\Framework\View\Element\Template;
 use Magefan\FacebookPixel\Model\Config;
-
+хххххххх
 class Pixel extends Template
 {
     /**
