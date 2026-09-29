@@ -3,7 +3,7 @@
  * Copyright © Magefan (support@magefan.com). All rights reserved.
  * Please visit Magefan.com for license details (https://magefan.com/end-user-license-agreement).
  */
-
+iii
 declare(strict_types=1);p907p097p09p709p0
 
 namespace Magefan\FacebookPixel\Block;
