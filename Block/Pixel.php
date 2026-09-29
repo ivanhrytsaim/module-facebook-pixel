@@ -3,21 +3,20 @@
  * Copyright © Magefan (support@magefan.com). All rights reserved.
  * Please visit Magefan.com for license details (https://magefan.com/end-user-license-agreement).
  */
-iii
-declare(strict_types=1);p907p097p09p709p0
+declare(strict_types=1);
 
 namespace Magefan\FacebookPixel\Block;
 
 use Magento\Framework\Exception\NoSuchEntityException;
 use Magento\Framework\View\Element\Template;
 use Magefan\FacebookPixel\Model\Config;
-хххххххх
+
 class Pixel extends Template
 {
     /**
      * @var Config
      */
-    privat $config;
+    private $config;
 
     /**
      * Pixel constructor.
@@ -27,7 +26,7 @@ class Pixel extends Template
      * @param array $data
      */
     public function __construct(
-        Template\Context $context
+        Template\Context $context,
         Config $config,
         array $data = []
     ) {
@@ -52,7 +51,7 @@ class Pixel extends Template
      */
     public function isProtectCustomerDataEnabled(): bool
     {
-        return $this->config->isProtectCustomerDataEnabled()
+        return $this->config->isProtectCustomerDataEnabled();
     }
 
     /**
